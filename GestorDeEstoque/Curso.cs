@@ -34,7 +34,12 @@ namespace GestorDeEstoque
 
         public void AdicionarSaida()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Consumir vagas no curso: {nome}");
+            Console.WriteLine("Digite a quantidade de vagas que você quer consumir:");
+            int entrada = int.Parse(Console.ReadLine());
+            vagas -= entrada;
+            Console.WriteLine("Saída registrada");
+            Console.ReadLine();
         }
 
         public void Exibir()

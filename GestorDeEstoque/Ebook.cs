@@ -29,7 +29,14 @@ namespace GestorDeEstoque
 
         public void AdicionarSaida()
         {
-            throw new NotImplementedException();
+
+            Console.WriteLine($"Adicionar vendas no E-book: {nome}");
+            Console.WriteLine("Digite a quantidade de vendas que você quer dá entrada:");
+            int entrada = int.Parse(Console.ReadLine());
+            vendas += entrada;
+            Console.WriteLine("Saída registrada");
+            Console.ReadLine();
+
         }
 
         public void Exibir()
