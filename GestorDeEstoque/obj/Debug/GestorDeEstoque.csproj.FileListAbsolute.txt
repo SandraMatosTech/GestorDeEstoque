@@ -1,0 +1,14 @@
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe.config
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.pdb
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.AssemblyReference.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.pdb
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.AssemblyReference.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.pdb
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe.config
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.pdb

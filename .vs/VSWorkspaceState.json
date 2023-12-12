@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GestorDeEstoque"
   ],
+  "SelectedNode": "\\GestorDeEstoque\\ProdutoFisico.cs",
   "PreviewInSolutionExplorer": false
 }
